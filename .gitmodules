@@ -1,0 +1,3 @@
+[submodule "aws-ec2-project"]
+	path = aws-ec2-project
+	url = https://github.com/kvnikhildev/aws-ec2-project.git
